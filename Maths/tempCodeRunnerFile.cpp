@@ -1,0 +1,1 @@
+ns += rem * pow(10, (int)(log10(temp)));
